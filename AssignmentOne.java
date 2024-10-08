@@ -16,7 +16,7 @@ import java.util.Scanner;
  * My program creates a Canvas using JavaFX and uses user inputs, methods, constants, data conversion,
  * if statements/loops, and different variable types to replicate a game screen similar to Arkanoid on the NES.
  * The program prints a custom image as the ball, a custom image as the paddle, text, and shapes.
- * @author BRENDAN DILEO, 000879513
+ * @author BRENDAN DILEO
  **/
 
 @SuppressWarnings("ALL")
